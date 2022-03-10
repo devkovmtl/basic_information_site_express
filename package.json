@@ -1,0 +1,27 @@
+{
+  "name": "basic_information_site_express",
+  "version": "1.0.0",
+  "description": "from The Odin's Project update with expressjs web framework [curriculum](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs/lessons/basic-informational-site)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devkovmtl/basic_information_site_express.git"
+  },
+  "keywords": [],
+  "author": "dev.kov.mtl@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devkovmtl/basic_information_site_express/issues"
+  },
+  "homepage": "https://github.com/devkovmtl/basic_information_site_express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
